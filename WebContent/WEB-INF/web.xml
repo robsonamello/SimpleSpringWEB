@@ -9,7 +9,7 @@
     <load-on-startup>1</load-on-startup>
   </servlet>
   <servlet-mapping>
-    <servlet-name>Welcome</servlet-name>
+    <servlet-name>SimpleSpringWEB</servlet-name>
     <url-pattern>/</url-pattern>
   </servlet-mapping>
 </web-app>
